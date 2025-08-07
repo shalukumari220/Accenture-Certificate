@@ -12,5 +12,5 @@ I worked on:
 
 This experience helped me strengthen my analytical thinking, problem-solving abilities, and communication skills—critical for any data-driven role.
 A big thank you to Accenture and Forage for providing this opportunity to explore the role of a data analyst in a corporate setting.
-Excited to apply these skills to real-world projects ahead! 🚀
-#DataAnalytics#DataVisualization#AccentureForage#VirtualExperience#StorytellingWithData#PowerBI#CareerDevelopment#Upskilling#Certificate
+Excited to apply these skills to real-world projects ahead! 
+🚀#DataAnalytics#DataVisualization#AccentureForage#VirtualExperience#StorytellingWithData#PowerBI#CareerDevelopment#Upskilling#Certificate

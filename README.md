@@ -3,8 +3,11 @@ This virtual experience gave me a real-world insight into how data drives busine
 I worked on: 
 
 ✅️ Understanding client requirements and framing business problems
+
 ✅️ Cleaning and modeling large datasets to extract key insights
+
 ✅️ Creating impactful dashboards and visualizations using storytelling techniques
+
 ✅️ Presenting data-driven solutions to stakeholders in a business-friendly manner
 
 This experience helped me strengthen my analytical thinking, problem-solving abilities, and communication skills—critical for any data-driven role.
